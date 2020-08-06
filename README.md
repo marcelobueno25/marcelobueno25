@@ -3,4 +3,4 @@ Meu nome é Marcelo, sou apaixonado por tecnologia, terminando a graduação em 
 
 No meu tempo livre curto jogar (🎲), ler livros ou estudar (📚) e assistir series (📺).
 
-![image](https://img-a.udemycdn.com/course/750x422/1650610_2673_5.jpg)
+![image](https://www.websiteone.pt/wp-content/uploads/2019/02/developer-guide-blog-2.png)
