@@ -3,3 +3,4 @@ Meu nome é Marcelo, sou apaixonado por tecnologia, terminando a graduação em 
 
 No meu tempo livre curto jogar (🎲), ler livros ou estudar (📚) e assistir series (📺).
 
+https://portfolio-tan-rho.now.sh/img/download.png
