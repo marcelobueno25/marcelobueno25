@@ -21,7 +21,7 @@
   
 </div>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcelobueno25/marcelobueno25/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![image](https://c.tenor.com/GP0N7eYvabUAAAAC/lol.gif) -->
 <!-- 
