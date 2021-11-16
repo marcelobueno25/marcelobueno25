@@ -79,4 +79,6 @@ No meu tempo livre curto jogar (🎲), ler livros ou estudar (📚) e assistir s
 
 ![image](https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif) -->
 
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelobueno25}/count.svg" /></p> 
 
